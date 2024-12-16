@@ -73,10 +73,9 @@ function App() {
           </div>
         ))}
       </div>
-      iv>
       {/* Footer */}
       <p className="text-slate-400 text-left text-md mt-20">
-        More updates coming soon.
+        More updates coming soon...
       </p>
     </div>
   );
