@@ -7,7 +7,7 @@ const coffees = [
     location: "Starbucks",
     cityState: "Scottsdale, AZ",
     date: "11.7.2024",
-    image: "/coffee-images/110724.jpg",
+    image: "./coffee-images/110724.jpg",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const coffees = [
     location: "Steadfast Coffee",
     cityState: "Everett, WA",
     date: "10.19.2024",
-    image: "/coffee-images/101924.jpg",
+    image: "./coffee-images/101924.jpg",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ const coffees = [
     location: "Narrative",
     cityState: "Everett, WA",
     date: "06.01.2024",
-    image: "/coffee-images/060124.jpg",
+    image: "./coffee-images/060124.jpg",
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ const coffees = [
     location: "Brandy’s Cafe",
     cityState: "Flagstaff, AZ",
     date: "12.26.2022",
-    image: "/coffee-images/122622.jpg",
+    image: "./coffee-images/122622.jpg",
   },
 ];
 
