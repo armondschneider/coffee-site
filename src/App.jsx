@@ -3,6 +3,14 @@ import "./App.css";
 const coffees = [
   {
     id: 1,
+    name: "Hot Vanilla Latte",
+    location: "The Village Coffee Shop",
+    cityState: "Cave Creek, AZ",
+    date: "01.18.2025",
+    image: "./coffee-images/011825.jpg",
+  },
+  {
+    id: 2,
     name: "Caramel Brûlée",
     location: "Starbucks",
     cityState: "Scottsdale, AZ",
@@ -10,7 +18,7 @@ const coffees = [
     image: "./coffee-images/110724.jpg",
   },
   {
-    id: 2,
+    id: 3,
     name: "Iced Vanilla Latte",
     location: "Steadfast Coffee",
     cityState: "Everett, WA",
@@ -18,7 +26,7 @@ const coffees = [
     image: "./coffee-images/101924.jpg",
   },
   {
-    id: 3,
+    id: 4,
     name: "Café Latte",
     location: "Narrative",
     cityState: "Everett, WA",
@@ -26,7 +34,7 @@ const coffees = [
     image: "./coffee-images/060124.jpg",
   },
   {
-    id: 4,
+    id: 5,
     name: "Vanilla Latte",
     location: "Brandy’s Cafe",
     cityState: "Flagstaff, AZ",
